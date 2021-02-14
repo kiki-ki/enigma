@@ -1,4 +1,4 @@
-rubyでenigma(エニグマ)暗号
+rubyでenigma(エニグマ)暗号。
 test.rbのコードに倣って使えます
 
 ```sh
